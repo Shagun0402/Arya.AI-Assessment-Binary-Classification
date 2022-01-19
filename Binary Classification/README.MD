@@ -35,10 +35,10 @@ I have used the above mentioned metrics to evaluation the model performances and
 
 Files:
 
-1. [dataset](url) - includes training and test data
-3. [EDA - Accuracy, Precision, Recall](https://github.com/Shagun0402/Arya.AI-Assessment-Binary-Classification/blob/main/EDA%20-%20Accuracy%2C%20Precision%2C%20Recall%20.ipynb) - this file performs EDA and visualizes the accuracy, precision and recall for all the selected models.
-2. [Data Pre-Processing](https://github.com/Shagun0402/Arya.AI-Assessment-Binary-Classification/blob/main/Data%20Pre-processing.ipynb) - exploratory data analysis, feature selection, data normalization, model training, model selection
-3. [Model_Performance](https://github.com/Shagun0402/Arya.AI-Assessment-Binary-Classification/blob/main/Model_Performance.ipynb) - Based on data exploration, this file shows the performance of all the models
-4. [Predictions](https://github.com/Shagun0402/Arya.AI-Assessment-Binary-Classification/blob/main/Predictions.ipynb) - Based on the analysis, It shows the predictions XGBoost model makes on test data set. 
-5. [requirements.txt](https://github.com/Shagun0402/Arya.AI-Assessment-Binary-Classification/blob/main/requirements.txt) - this file is defines the versions for all the external libraries used for this project
+1. [dataset](https://github.com/Shagun0402/Arya.AI-Assessment-Binary-Classification/tree/main/Binary%20Classification/dataset) - includes training and test data
+3. [EDA - Accuracy, Precision, Recall](https://github.com/Shagun0402/Arya.AI-Assessment-Binary-Classification/blob/main/Binary%20Classification/EDA%20-%20Accuracy%2C%20Precision%2C%20Recall%20.ipynb) - this file performs EDA and visualizes the accuracy, precision and recall for all the selected models.
+2. [Data Pre-Processing](https://github.com/Shagun0402/Arya.AI-Assessment-Binary-Classification/blob/main/Binary%20Classification/Data%20Pre-processing.ipynb) - exploratory data analysis, feature selection, data normalization, model training, model selection
+3. [Model_Performance](https://github.com/Shagun0402/Arya.AI-Assessment-Binary-Classification/blob/main/Binary%20Classification/Model_Performance.ipynb) - Based on data exploration, this file shows the performance of all the models
+4. [Predictions](https://github.com/Shagun0402/Arya.AI-Assessment-Binary-Classification/blob/main/Binary%20Classification/Predictions.ipynb) - Based on the analysis, It shows the predictions XGBoost model makes on test data set. 
+5. [requirements.txt](https://github.com/Shagun0402/Arya.AI-Assessment-Binary-Classification/blob/main/Binary%20Classification/requirements.txt) - this file is defines the versions for all the external libraries used for this project
 
