@@ -21,9 +21,9 @@ Files:
     In order to achive numerical stability (because the data is highly sparse and continuous), I have applied StandardScaler to normalize the data.
 
 **Model used for training the data:**
-    1.  Random Model
-    2.  Logistic Regression
-    3.  Naive- Bayes Classification
+    Markup: *  Random Model
+            *  Logistic Regression
+    *  Naive- Bayes Classification
     4.  Support Vector Machine - using l2 penalty
     5.  K- Nearest Neighbors Classification
     6.  Decision Tree Classification
