@@ -1,4 +1,4 @@
-Binary Classification  of Dataset - Arya.AI Assessment for Data Scientist role
+****Binary Classification  of Dataset - Arya.AI Assessment for Data Scientist role****
 
 Files:
 
@@ -10,7 +10,7 @@ Files:
 5. [requirements.txt](https://github.com/Shagun0402/Arya.AI-Assessment-Binary-Classification/blob/main/Binary%20Classification/requirements.txt) - this file is defines the versions for all the external libraries used for this project
 
 
-**Steps involved in the assessment:** 
+****Steps involved in the assessment:** **
 
     I have performed basic EDA on the training data to get insights on data. 
 
@@ -20,22 +20,22 @@ Files:
 
     In order to achive numerical stability (because the data is highly sparse and continuous), I have applied StandardScaler to normalize the data.
 
-**Model used for training the data:**
-    Markup: *  Random Model
-            *  Logistic Regression
-    *  Naive- Bayes Classification
-    4.  Support Vector Machine - using l2 penalty
-    5.  K- Nearest Neighbors Classification
-    6.  Decision Tree Classification
-    7.  Random Forest Classification
-    8.  XGBoost Classification
+****Model used for training the data:****
+1. Random Model
+2.  Logistic Regression
+3.  Naive- Bayes Classification
+4.  Support Vector Machine - using l2 penalty
+5.  K- Nearest Neighbors Classification
+6.  Decision Tree Classification
+7.  Random Forest Classification
+8.  XGBoost Classification
 
-**The valuation Metrics for model selection:**
-    1.  Accuracy
-    2.  Precision
-    3.  Recall
-    4.  Log-Loss
-    5.  AUC Score
+****The valuation Metrics for model selection:****
+1.  Accuracy
+2.  Precision
+3.  Recall
+4.  Log-Loss
+5.  AUC Score
 
 I have used the above mentioned metrics to evaluation the model performances and based on the the metric scores concluded that the best model for the binary classification task is: **XGBOOST Model**.
 
